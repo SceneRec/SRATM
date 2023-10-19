@@ -1,2 +1,1 @@
-# SRATM
-video asction
+A PyTorch implementation of SRATM (coming soon!)
